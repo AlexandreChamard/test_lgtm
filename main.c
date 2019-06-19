@@ -7,11 +7,12 @@ long bla(int i)
 
     char str[] = "%ld\n";
     printf(str, l);
+    return i*2000000;
 }
 
 int main()
 {
-    int i = 42; 
+    int i = 42;
 
     bla(i);
 }
