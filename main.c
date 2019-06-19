@@ -11,7 +11,7 @@ long bla(int i)
 
 int main()
 {
-    int i = 42;
+    int i = 42; 
 
     bla(i);
 }
