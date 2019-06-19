@@ -1,1 +1,2 @@
-gcc main.c
+all:
+	gcc main.c
